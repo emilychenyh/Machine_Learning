@@ -1,2 +1,2 @@
 # Machine_Learning
-Collection of Machine Learning Projects and work
+Collection of work on machine learning and projects related to the area.
